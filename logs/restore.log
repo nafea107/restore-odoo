@@ -1,0 +1,143 @@
+===== 2026-11-04 12:38:42 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+No finished backup for today in /srv/sftp/prodbackup/uploads, nothing was changed
+  -  1 restore.ts:163:5 › test
+
+  1 skipped
+===== 2026-11-04 12:38:43 finished with exit code 0 =====
+===== 2026-11-04 12:43:34 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+No finished backup for today in /srv/sftp/prodbackup/uploads, nothing was changed
+  -  1 restore.ts:164:5 › test
+
+  1 skipped
+===== 2026-11-04 12:43:35 finished with exit code 0 =====
+===== 2026-11-04 12:45:06 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+No finished backup for today in /srv/sftp/prodbackup/uploads, nothing was changed
+  -  1 restore.ts:164:5 › test
+
+  1 skipped
+===== 2026-11-04 12:45:07 finished with exit code 0 =====
+===== 2026-11-04 12:45:07 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+No finished backup for today in /srv/sftp/prodbackup/uploads, nothing was changed
+  -  1 restore.ts:164:5 › test
+
+  1 skipped
+===== 2026-11-04 12:45:08 finished with exit code 0 =====
+===== 2026-11-04 12:45:19 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+No finished backup for today in /srv/sftp/prodbackup/uploads, nothing was changed
+  -  1 restore.ts:164:5 › test
+
+  1 skipped
+===== 2026-11-04 12:45:20 finished with exit code 0 =====
+===== 2026-11-04 12:49:53 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-03_00-43-38.zip
+WARNING: no finished backup for today, the newest one is from 2026-11-03
+  ✓  1 restore.ts:168:5 › test (39.5s)
+
+  1 passed (39.9s)
+===== 2026-11-04 12:50:34 finished with exit code 0 =====
+===== 2026-11-04 12:50:54 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-03_00-43-38.zip
+WARNING: no finished backup for today, the newest one is from 2026-11-03
+System parameter 63 is "trial", left unchanged
+  ✓  1 restore.ts:168:5 › test (1.9s)
+
+  1 passed (2.2s)
+===== 2026-11-04 12:50:56 finished with exit code 0 =====
+===== 2026-11-04 12:53:14 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-03_00-43-38.zip
+WARNING: no finished backup for today, the newest one is from 2026-11-03
+System parameter 63 is "trial", left unchanged
+  ✓  1 restore.ts:168:5 › test (2.6s)
+
+  1 passed (2.9s)
+===== 2026-11-04 12:53:17 finished with exit code 0 =====
+===== 2026-11-04 12:54:22 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-04_00-43-38.zip
+  ✓  1 restore.ts:168:5 › test (41.0s)
+
+  1 passed (41.3s)
+===== 2026-11-04 12:55:04 finished with exit code 0 =====
+===== 2026-11-04 13:10:01 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-03_00-43-38.zip
+WARNING: no finished backup for today, the newest one is from 2026-11-03
+Tech18_2026-11-04_00 is newer than this backup, nothing was changed
+  -  1 restore.ts:190:5 › test
+
+  1 skipped
+===== 2026-11-04 13:10:02 finished with exit code 0 =====
+===== 2026-11-04 13:20:01 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-03_00-43-38.zip
+WARNING: no finished backup for today, the newest one is from 2026-11-03
+Tech18_2026-11-04_00 is newer than this backup, nothing was changed
+  -  1 restore.ts:190:5 › test
+
+  1 skipped
+===== 2026-11-04 13:20:02 finished with exit code 0 =====
+===== 2026-11-05 08:30:01 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-05_00-43-43.zip
+System parameter 63 changed from "renewal" to "trial"
+System parameter 71 changed from "M21012422787659" to "M2026"
+  ✓  1 restore.ts:190:5 › test (40.9s)
+
+  1 passed (41.3s)
+===== 2026-11-05 08:30:43 finished with exit code 0 =====
+===== 2026-11-05 10:00:01 start =====
+Now using node v26.13.0 (npm v11.20.0)
+
+Running 1 test using 1 worker
+
+Using backup Tech18_2026-11-05_00-43-43.zip
+System parameter 63 is "trial", left unchanged
+System parameter 71 is "M2026", left unchanged
+  ✓  1 restore.ts:190:5 › test (2.6s)
+
+  1 passed (2.9s)
+===== 2026-11-05 10:00:05 finished with exit code 0 =====
